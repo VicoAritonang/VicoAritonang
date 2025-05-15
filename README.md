@@ -67,7 +67,6 @@ I enjoy working with data and have experience performing basic to intermediate a
 - **ML Techniques**: Random Forest, KNN, Naive Bayes, K-Means, Regression (Linear/Logistic)  
 - **Tools**: IBM SPSS, Jupyter, Kaggle  
 
-📈 My Kaggle profile: [https://www.kaggle.com/vicoaritonang](https://www.kaggle.com/vicoaritonang)
 
 ---
 
