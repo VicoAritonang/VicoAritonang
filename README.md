@@ -39,10 +39,9 @@ I have experience working as a full-stack web developer using **Django** and var
 
 | Project Name | Description | Stack | Link |
 |--------------|-------------|-------|------|
-| [Project 1] | Web platform for [function] | Django, PostgreSQL | [Link Here] |
-| [Project 2] | Dashboard for [function] | Django, Vercel | [Link Here] |
-| [Project 3] | Internal system for [company/purpose] | Django, Firebase | [Link Here] |
-| [Project 4] | Landing page for [client/personal] | HTML, CSS, JS | [Link Here] |
+| handlerindonesia | Web platform for my first venture | Django, PostgreSQL | handlerindonesia.vercel.app |
+| firepoint | database editor for my freelance client | Django, Vercel | firepoint-by-vico.vercel.app |
+
 
 ---
 
@@ -56,8 +55,6 @@ I’ve built mobile apps both independently and through freelance work, using **
 | App Name | Description | Platform | Link |
 |----------|-------------|----------|------|
 | Baskaracard | An educational card game | itch.io | [baskaracard](https://vicodev01.itch.io/baskaracard) |
-| [App 2] | [Description] | Flutter | [Link Here] |
-| [App 3] | [Description] | FlutterFlow | [Link Here] |
 
 ---
 
@@ -77,10 +74,8 @@ I enjoy working with data and have experience performing basic to intermediate a
 ## 📫 Let's Connect  
 Feel free to reach out for collaboration, freelance projects, or just to talk about AI, software, and technology!
 
-- 💼 LinkedIn: [Your LinkedIn]  
-- 🧠 Medium/Blog: [If any]  
-- 📧 Email: [Your Email]  
-- 🌐 Portfolio/Website: [Your Website if available]
+- 💼 LinkedIn: [www.linkedin.com/in/vico-winner-sebastian-aritonang-93a609249/]  
+- 📧 Email: [vico.winner31@ui.ac.id]  
 
 ---
 
