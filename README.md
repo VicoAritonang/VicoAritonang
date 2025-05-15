@@ -1,5 +1,5 @@
 # Hi there, I'm Vico 👋  
-### Agentic AI Engineer | AI Automation Specialist | Full-Stack Developer | Data Enthusiast  
+### Agentic AI Engineer | Full-Stack Developer | Data Enthusiast  
 
 I'm a 4th semester Information Systems student at the University of Indonesia with a passion for Artificial Intelligence, particularly in the development of **agentic AI**—intelligent autonomous systems that interact, reason, and act across diverse domains. Currently, I specialize as an **AI Engineer**, focused on building modular, scalable, and production-ready autonomous agents and digital solutions.
 
