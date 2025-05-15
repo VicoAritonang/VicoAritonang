@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi there, I'm Vico 👋  
+### Agentic AI Engineer | AI Automation Specialist | Full-Stack Developer | Data Enthusiast  
 
-<!--
-**VicoAritonang/VicoAritonang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th semester Information Systems student at the University of Indonesia with a passion for Artificial Intelligence, particularly in the development of **agentic AI**—intelligent autonomous systems that interact, reason, and act across diverse domains. Currently, I specialize as an **AI Engineer**, focused on building modular, scalable, and production-ready autonomous agents and digital solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I Do
+
+### 🧠 Agentic AI Engineering & Automation  
+I design, build, and deploy AI-driven automation systems using cutting-edge tools such as **n8n**, **LangChain**, and **LLMs**. These systems automate workflows for:
+
+- 🛠️ Business process & marketing automation  
+- 📄 Document logging and summarization  
+- 🏡 Intelligent home assistant systems  
+- 🤖 AI-powered chatbots and voice interfaces  
+- 📞 AI call centers with dynamic voice interaction  
+- 🎬 Text-to-video generation pipelines  
+
+I integrate LLMs with **Retrieval-Augmented Generation (RAG)** using vector databases, and orchestrate agents to deliver real-world impact.
+
+#### Tech Stack Highlights:
+- **AI/LLMs**: LangChain, LangGraph, Prompt Engineering, OpenAI, Claude, HuggingFace  
+- **Orchestration**: n8n, tool-calling, reasoning chain configuration  
+- **APIs**: REST, GraphQL, OAuth 2.0, Postman, Insomnia  
+- **RAG & Vector DBs**: Weaviate, Pinecone, FAISS, Qdrant, Supabase (pgvector)  
+- **Voice/Multimodal Interfaces**: Whisper, ElevenLabs, Google Cloud TTS, WhatsApp Business API, Telegram Bot API  
+
+---
+
+## 🌐 Web Development  
+I have experience working as a full-stack web developer using **Django** and various frontend/backend technologies. I implement secure software development principles and manage the entire process from **design** to **deployment**.
+
+#### Skills:
+- **Analysis & UI**: Draw.io, Figma  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: Django, PostgreSQL, MySQL, SQLite, Firebase  
+- **DevOps**: GitLab CI/CD, Docker, Kubernetes, Vercel  
+
+| Project Name | Description | Stack | Link |
+|--------------|-------------|-------|------|
+| [Project 1] | Web platform for [function] | Django, PostgreSQL | [Link Here] |
+| [Project 2] | Dashboard for [function] | Django, Vercel | [Link Here] |
+| [Project 3] | Internal system for [company/purpose] | Django, Firebase | [Link Here] |
+| [Project 4] | Landing page for [client/personal] | HTML, CSS, JS | [Link Here] |
+
+---
+
+## 📱 App Development  
+I’ve built mobile apps both independently and through freelance work, using **Flutter** and **FlutterFlow**, with complete backend integration and deployment.
+
+#### Skills:
+- Draw.io, Figma, Flutter (Dart), Firebase, FlutterFlow  
+- App testing/deployment: AppCenter, itch.io  
+
+| App Name | Description | Platform | Link |
+|----------|-------------|----------|------|
+| Baskaracard | An educational card game | itch.io | [baskaracard](https://vicodev01.itch.io/baskaracard) |
+| [App 2] | [Description] | Flutter | [Link Here] |
+| [App 3] | [Description] | FlutterFlow | [Link Here] |
+
+---
+
+## 📊 Data Science  
+I enjoy working with data and have experience performing basic to intermediate analysis using Python, R, and SPSS.
+
+#### Skills:
+- **Python**: Pandas, Matplotlib, Seaborn, Scikit-learn, Numpy  
+- **R**: Dplyr, ggplot2, Shiny, Lubridate  
+- **ML Techniques**: Random Forest, KNN, Naive Bayes, K-Means, Regression (Linear/Logistic)  
+- **Tools**: IBM SPSS, Jupyter, Kaggle  
+
+📈 My Kaggle profile: [https://www.kaggle.com/vicoaritonang](https://www.kaggle.com/vicoaritonang)
+
+---
+
+## 📫 Let's Connect  
+Feel free to reach out for collaboration, freelance projects, or just to talk about AI, software, and technology!
+
+- 💼 LinkedIn: [Your LinkedIn]  
+- 🧠 Medium/Blog: [If any]  
+- 📧 Email: [Your Email]  
+- 🌐 Portfolio/Website: [Your Website if available]
+
+---
+
+⭐ _“I believe intelligent systems should serve human creativity and decision-making—autonomously, reliably, and ethically.”_
