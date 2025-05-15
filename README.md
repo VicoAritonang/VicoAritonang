@@ -39,8 +39,8 @@ I have experience working as a full-stack web developer using **Django** and var
 
 | Project Name | Description | Stack | Link |
 |--------------|-------------|-------|------|
-| handlerindonesia | Web platform for my first venture | Django, PostgreSQL | handlerindonesia.vercel.app |
-| firepoint | database editor for my freelance client | Django, Vercel | firepoint-by-vico.vercel.app |
+| handlerindonesia | Web platform for my first venture | Django, vercel | [handlerindonesia]handlerindonesia.vercel.app |
+| firepoint | database editor for my freelance client | Django, Vercel, firebase | [firepoint-by-vico](firepoint-by-vico.vercel.app) |
 
 
 ---
