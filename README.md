@@ -22,9 +22,9 @@ I integrate LLMs with **Retrieval-Augmented Generation (RAG)** using vector data
 #### Tech Stack Highlights:
 - **AI/LLMs**: LangChain, LangGraph, Prompt Engineering, OpenAI, Claude, HuggingFace  
 - **Orchestration**: n8n, tool-calling, MCPs, reasoning chain configuration  
-- **APIs**: REST, GraphQL, OAuth 2.0, Postman, Insomnia  
-- **RAG & Vector DBs**: Weaviate, Pinecone, FAISS, Qdrant, Supabase (pgvector)  
-- **Voice/Multimodal Interfaces**: Whisper, ElevenLabs, Google Cloud TTS, WhatsApp Business API, Telegram Bot API  
+- **APIs**: OAuth 2.0, Postman  
+- **RAG & Vector DBs**: Pinecone, Supabase vector  
+- **Voice/Multimodal Interfaces**: ElevenLabs, Google Cloud TTS, WhatsApp Business API, Telegram Bot API  
 
 ---
 
