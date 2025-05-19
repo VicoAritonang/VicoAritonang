@@ -74,7 +74,8 @@ I enjoy working with data and have experience performing basic to intermediate a
 Feel free to reach out for collaboration, freelance projects, or just to talk about AI, software, and technology!
 
 - 💼 LinkedIn : [Vico Winner Sebastian Aritonang](https://www.linkedin.com/in/vico-winner-sebastian-aritonang-93a609249)
-- 📧 Email: vico.winner31@ui.ac.id  
+- 📧 Email: vico.winner31@ui.ac.id
+- 🌐 Web Portofolio : [portofolio-vico.vercel.app].(https://portofolio-vico.vercel.app/)
 
 ---
 
