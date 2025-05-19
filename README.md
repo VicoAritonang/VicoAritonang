@@ -75,7 +75,7 @@ Feel free to reach out for collaboration, freelance projects, or just to talk ab
 
 - 💼 LinkedIn : [Vico Winner Sebastian Aritonang](https://www.linkedin.com/in/vico-winner-sebastian-aritonang-93a609249)
 - 📧 Email: vico.winner31@ui.ac.id
-- 🌐 Web Portofolio : [portofolio-vico.vercel.app].(https://portofolio-vico.vercel.app/)
+- 🌐 Web Portofolio : [portofolio-vico.vercel.app](https://portofolio-vico.vercel.app/)
 
 ---
 
