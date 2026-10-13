@@ -13,5 +13,3 @@ Feel free to reach out for collaboration, freelance projects, or just to talk ab
 - 🌐 Web Portofolio : [vicoworks.com](https://vicoworks.com)
 
 ---
-
-]
